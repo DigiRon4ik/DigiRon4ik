@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm DigiRon4ik</h1>
-
 <h3 align="center">Amateur student, future senior, .NET C# software developer</h3>
 
 - 🔭 I’m currently working on a project for the university called **Hotel Management System**
