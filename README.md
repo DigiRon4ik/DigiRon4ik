@@ -25,7 +25,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-090909?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### — _Frameworks:_
-![.Net](https://img.shields.io/badge/.NET-090909?style=for-the-badge&logo=.net&logoColor=5C2D91)
+![.NET Framework](https://img.shields.io/badge/Framework-090909?style=for-the-badge&logo=.net&logoColor=5C2D91)
 ![Laravel](https://img.shields.io/badge/Laravel-090909?style=for-the-badge&logo=laravel&logoColor=%23FF2D20.svg)
 
 ### — _Tools:_
