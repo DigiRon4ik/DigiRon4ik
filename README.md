@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm DigiRon4ik</h1>
-<h3 align="center">Amateur student, future senior, .NET C# software developer</h3>
 
----
+<h3 align="center">Amateur student, future senior, .NET C# software developer</h3>
 
 - 🔭 I’m currently working on a project for the university called **Hotel Management System**
 
@@ -15,10 +14,35 @@
 
 ---
 
-<p align="left">
-</p>
+### — _Languages:_
+![C#](https://img.shields.io/badge/C—Sharp-090909?style=for-the-badge&logo=c-sharp&logoColor=blueviolet)
+![Python](https://img.shields.io/badge/PYTHON-090909?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/PHP-090909?style=for-the-badge&logo=php&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### — _DataBases:_
+![SQLite](https://img.shields.io/badge/SQLite-090909?style=for-the-badge&logo=sqlite&logoColor=9cf)
+![Postgres](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=informational)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-090909?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=digiron4ik&show_icons=true&theme=dark&locale=en" alt="digiron4ik" /></p>
+### — _Framework:_
+![.Net](https://img.shields.io/badge/.NET-090909?style=for-the-badge&logo=.net&logoColor=5C2D91)
+![Laravel](https://img.shields.io/badge/Laravel-090909?style=for-the-badge&logo=laravel&logoColor=%23FF2D20.svg)
+
+### — _Tools:_
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-090909?style=for-the-badge&logo=visual-studio&logoColor=5C2D91)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-090909?style=for-the-badge&logo=visual-studio-code&logoColor=0078D7)
+![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
+### — _Favorite Operating Systems:_
+![Kali](https://img.shields.io/badge/Kali-090909?style=for-the-badge&logo=kalilinux&logoColor=268BEE)
+![Fedora](https://img.shields.io/badge/Fedora-090909?style=for-the-badge&logo=fedora&logoColor=294172)
+![Windows](https://img.shields.io/badge/Windows-090909?style=for-the-badge&logo=windows&logoColor=268BEE)
+
+### — _Favorite Browsers:_
+![Opera](https://img.shields.io/badge/Opera-090909?style=for-the-badge&logo=Opera&logoColor=FF1B2D)
+![Tor](https://img.shields.io/badge/Tor-090909?style=for-the-badge&logo=Tor-Browser&logoColor=7D4698)
+
+### — _Game Engine:_
+![Unity](https://img.shields.io/badge/Unity-090909?style=for-the-badge&logo=unity&logoColor=white)
+
+---
