@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm DigiRon4ik</h1>
 <h3 align="center">Amateur student, future senior, .NET C# software developer</h3>
 
+---
+
 - 🔭 I’m currently working on a project for the university called **Hotel Management System**
 
 - 🌱 I’m currently learning **ServiceStack.OrmLite for SQLite and MS SQL Server 2019**
@@ -9,7 +11,9 @@
 
 - 📫 How to reach me **mr.robot.kun.006@gmail.com**
 
-- ⚡ Fun fact: **I'm stupid**
+- ⚡ Fun fact: ~~**I'm stupid**~~
+
+---
 
 <p align="left">
 </p>
