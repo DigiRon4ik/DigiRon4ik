@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm DigiRon4ik</h1>
+<img src="https://github.com/DigiRon4ik/DigiRon4ik/blob/main/header.png" alt="preview">
+
+---
+
 <h3 align="center">Amateur student, future senior, .NET C# software developer</h3>
 
 - 🔭 I’m currently **not developing real projects*
