@@ -15,8 +15,8 @@
 
 ### — _Languages:_
 ![Python](https://img.shields.io/badge/PYTHON-090909?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-090909?style=for-the-badge&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/css3-090909?style=for-the-badge&logo=css3&logoColor=1572b6)
 ![C#](https://img.shields.io/badge/C—Sharp-090909?style=for-the-badge&logo=c-sharp&logoColor=blueviolet)
 
 ### — _DataBases:_
@@ -25,9 +25,10 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-090909?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### — _Frameworks:_
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![.NET Framework](https://img.shields.io/badge/Framework-090909?style=for-the-badge&logo=.net&logoColor=5C2D91)
+![Django](https://img.shields.io/badge/django-090909?style=for-the-badge&logo=django&logoColor=092e20)
+![Flask](https://img.shields.io/badge/flask-090909?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-090909?style=for-the-badge&logo=bootstrap&logoColor=563d7c)
+![.Net](https://img.shields.io/badge/.NET-090909?style=for-the-badge&logo=.net&logoColor=5C2D91)
 
 ### — _Tools:_
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-090909?style=for-the-badge&logo=visual-studio&logoColor=5C2D91)
