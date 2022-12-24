@@ -4,7 +4,7 @@
 
 <h3 align="center">Amateur student, future senior, .NET C# software developer</h3>
 
-- 🔭 I’m currently **not developing real projects*
+- 🔭 I’m currently **not developing real projects**
 
 - 🌱 I’m currently learning **HTML5 & CSS3, Django & Flask & PostgreSQL**
 
@@ -46,6 +46,7 @@
 ### — _Favorite Browsers:_
 ![Opera](https://img.shields.io/badge/Opera-090909?style=for-the-badge&logo=Opera&logoColor=FF1B2D)
 ![Tor](https://img.shields.io/badge/Tor-090909?style=for-the-badge&logo=Tor-Browser&logoColor=7D4698)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-090909?style=for-the-badge&logo=GoogleChrome&logoColor=4285F4)
 
 ### — _Game Engine:_
 ![Unity](https://img.shields.io/badge/Unity-090909?style=for-the-badge&logo=unity&logoColor=white)
