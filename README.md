@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center">Amateur student, future senior, .NET C# software developer and Django WEB developer</h3>
+<h3 align="center">Amateur student, future senior, Python/Django WEB developer and .NET C# software developer</h3>
 
 - 🔭 I’m currently **not developing real projects**
 
